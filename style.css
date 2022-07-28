@@ -68,7 +68,6 @@ main img {
 }
 .contact h2 {
     margin-top: 5%;
-    height: 30vh;
 }
 
 .line {
@@ -93,4 +92,7 @@ main img {
     position: fixed;
     bottom: 0%;
     z-index: 1;
+}
+.space {
+    padding-top: 30%;
 }
